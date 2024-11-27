@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: #333;
+    text-decoration: underline;
+}
+
+.content {
+    font-family: 'Verdana', sans-serif;
+    font-size: 18px;
+    color: #555;
+}
